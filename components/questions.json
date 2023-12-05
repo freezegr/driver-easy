@@ -1,0 +1,103 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "question": "Η κατανάλωση αλκοόλ:",
+            "img": null,
+            "anwsers": ["Σας οδηγεί σε υπερεκτίμηση των πραγματικών σας ικανοτήτων.", "Μειώνει το χρόνο της αντιδράσεως σας."],
+            "right": 1,
+            "category": "αλκοόλ",
+            "QuestionID": 10
+        },
+        {
+            "id": "2",
+            "question": "Το κάπνισμα ενός τσιγάρου στον κλειστό χώρο του οχήματος επιδρά στη φυσιολογική κατάσταση του οδηγού:",
+            "img": null,
+            "anwsers": ["Ναι", "Οχι"],
+            "right": 0,
+            "category": "αλκοόλ",
+            "QuestionID": 12
+        },
+        {
+            "id": "3",
+            "question": "Σε κατάσταση έκδηλης μέθης σας (πάνω από 1,10 γραμμάρια ανά λίτρο αίματος), η Τροχαία μπορεί:",
+            "img": null,
+            "anwsers": ["Να σας αφαιρέσει την άδεια οδηγήσεως και να ακινητοποιήσει το όχημά σας.", "Να κατάσχει το όχημά σας."],
+            "right": 0,
+            "category": "αλκοόλ",
+            "QuestionID": 13
+        },
+        {
+            "id": "4",
+            "question": "Εισαι τριτοτεταρτος:",
+            "img": "https://www.liaros-drive.gr/test/images/pic0484.jpg",
+            "anwsers": ["Ναι", "Οχι", "Γιατι το λες αυτο?"],
+            "right": 1,
+            "category": "TEST",
+            "QuestionID": 1
+        },
+        {
+            "id": "5",
+            "question": "Εισαι γκαβλιαρεις: ",
+            "img": "https://www.liaros-drive.gr/test/images/pic0310.jpg",
+            "anwsers": ["Ναι", "Οχι"],
+            "right": 1,
+            "category": "TEST",
+            "QuestionID": 2
+        },
+        {
+            "id": "6",
+            "question": "Τι κανεις με την ζωη σου: ",
+            "img": "https://www.liaros-drive.gr/test/images/pic0338.jpg",
+            "anwsers": ["Καλα", "χαλια"],
+            "right": 0,
+            "category": "TEST",
+            "QuestionID": 3
+        },
+        {
+            "id": "7",
+            "question": "Τι ωρα ειναι: ",
+            "img": null,
+            "anwsers": ["Καλα", "χαλια"],
+            "right": 1,
+            "category": "TEST",
+            "QuestionID": 4
+        },
+        {
+            "id": "8",
+            "question": "Τι μερα ειναι σημερα: ",
+            "img": null,
+            "anwsers": ["Δευτερα", "Τριτη"],
+            "right": 0,
+            "category": "TEST",
+            "QuestionID": 5
+        },
+        {
+            "id": "9",
+            "question": "Ποσο μαλακας εισαι: ",
+            "img": null,
+            "anwsers": ["πολυ", "Παραπολυ"],
+            "right": 1,
+            "category": "TEST",
+            "QuestionID": 6
+        },
+        {
+            "id": "10",
+            "question": "Τι καφε πεινεις: ",
+            "img": null,
+            "anwsers": ["καπουτσινο", "εσπρεσο"],
+            "right": 1,
+            "category": "TEST",
+            "QuestionID": 7
+        },
+        {
+            "id": "11",
+            "question": "Ποσα λεφτα εχεις: ",
+            "img": null,
+            "anwsers": ["0", "200Κ"],
+            "right": 0,
+            "category": "TEST",
+            "QuestionID": 8
+        }
+    ]
+}
