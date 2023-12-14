@@ -4,6 +4,7 @@ export interface question {
     img?: string;
     anwsers: string[];
     right: number;
-    category: 'ALKOOL' | 'TEST';
+    category: string;//'ALKOOL' | 'TEST';
     QuestionID: number;
+    anwser?: number;
 }
