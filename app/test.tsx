@@ -32,10 +32,12 @@ export default function Test() {
 
     const nextQuestion = (anwser: number) => {
         questions[currentQuestion].anwser = anwser
+        console.log(questions[currentQuestion].right, anwser)
         const nextIndex = (currentQuestion + 1) % questions.length;
 
         if (nextIndex === 0) {
-            console.log(questions)
+            //console.log(questions[currentQuestion].anwser)
+            console.log(questions.filter(x => x.anwser == x.right).length)
             // router.push({ pathname: "/"})
             return (
                 <SafeAreaView>
